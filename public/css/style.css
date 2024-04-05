@@ -20,6 +20,13 @@
     color: aliceblue;
 }
 
+#jarkom{
+    list-style: none;
+    background-color: black;
+    text-decoration: none;
+    color: aliceblue;
+}
+
 #app{
     margin-right: 38px;
 }
